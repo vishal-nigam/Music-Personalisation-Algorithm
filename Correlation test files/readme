@@ -5,3 +5,5 @@ The test was done to check the 5 sec meaned chunk will have the same modulation 
 These multiple Notebook files corresponds to different features we are going to use.
 
 Conclusiions will be added after the discussion in the meeating held on 31/3/2019 (sunday).
+
+ScriPy_correlation_test.ipynb - This is file is the test file if the scipy's library of corelation is working or not.
